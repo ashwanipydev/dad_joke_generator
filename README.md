@@ -39,3 +39,5 @@ Now, let's break down the project step by step:
    - Add a click event listener to the button (`btnEl`) that calls the `getJoke()` function when clicked.
 
 Each step above contributes to the functionality of the project. It fetches a dad joke from an API and updates the UI with the retrieved joke. The use of async/await makes the asynchronous code more readable and manageable. Additionally, error handling ensures that the user is provided with appropriate feedback in case of any issues.
+##Live Damo
+[Dad Joke Generator](https://ashwanipydev.github.io/dad_joke_generator/)
